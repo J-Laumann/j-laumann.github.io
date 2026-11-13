@@ -16,6 +16,7 @@ from docx.shared import Inches, Pt, RGBColor
 ROOT = Path(__file__).resolve().parent
 CHAPTERS = ROOT / "chapters"
 MAP = ROOT / "emberheim-map.jpg"
+SITE = ROOT.parent / "web"
 
 # Every handout title from Weird West and Flying Boats. The build fails if one is missing.
 HANDOUTS = [
@@ -627,7 +628,7 @@ def write_site(full_html: str) -> None:
     import json
     import shutil
 
-    site = ROOT / "site"
+    site = SITE
     site.mkdir(exist_ok=True)
     shutil.copy(MAP, site / "emberheim-map.jpg")
     inner = re.search(r"<body>(.*)</body>", full_html, re.S).group(1)

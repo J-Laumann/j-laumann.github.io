@@ -1,16 +1,20 @@
 # Emberheim
 
-The local site is `docs/emberheim/site/index.html`. Open that file in a browser. The home page is the map of Emberheim in 980, filling the screen under the bar. That bar stays on every page: Home, Locations, Factions, Campaigns, People, Reference, and Still open. The search box jumps to a heading. Copy the whole `site` folder wherever you want to keep it. It does not need a server.
+The site is the `web` folder. `web/index.html` is the home page: the map of Emberheim in 980, filling the screen under the bar. That bar stays on every page: Home, Locations, Factions, Campaigns, People, Reference, Shared Services, and Still open. Magic Items appears after the GM lock. The search box jumps to a heading.
 
-The same book is also `docs/emberheim/emberheim.html` and `docs/emberheim/emberheim.docx`. The map is the present year, 980. Weird West and Lost City are 971. Rex Refund and Scorpion Jack missed the Lost City of Gold. Flying Boats and From Brews to Bullion are both 980. Brews is the current party. Locations come first. Factions follow as Empire, Central, the West, the East, and the Elemental Plane of Air, then Campaigns.
+This repository is a user site, so GitHub Pages publishes the whole `main` branch. In the repository settings, open Pages and set the source to Deploy from a branch, `main`, and the root folder. The book is then at `https://j-laumann.github.io/web/`.
 
-`docs/emberheim/emberheim.docx` is the same book for Google Drive. Upload it and open it with Google Docs. The headings are already marked, so Docs can build its own contents list from Insert, Table of contents. The written contents are already at the top of the file.
+The same book is also `emberheim/emberheim.html` and `emberheim/emberheim.docx`. The map is the present year, 980. Weird West and Lost City are 971. Rex Refund and Scorpion Jack missed the Lost City of Gold. Flying Boats and From Brews to Bullion are both 980. Brews is the current party. Locations come first. Factions follow as Empire, Central, the West, the East, and the Elemental Plane of Air, then Campaigns.
 
-Chapters live in `docs/emberheim/chapters/`. After a new campaign is merged, rebuild with:
+`emberheim/emberheim.docx` is the same book for Google Drive. Upload it and open it with Google Docs. The headings are already marked, so Docs can build its own contents list from Insert, Table of contents. The written contents are already at the top of the file.
+
+Chapters live in `emberheim/chapters/`. After a new campaign is merged, rebuild with:
 
 ```bash
-python3 docs/emberheim/build.py
+python3 emberheim/build.py
 ```
+
+That writes the site back into `web`.
 
 # Roll20 handout export
 
