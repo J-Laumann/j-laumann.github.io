@@ -189,11 +189,13 @@ Alistaire and Malistaire keep her door and sit with guests the mist takes. In th
 
 ### General Ignar Voryn
 
-**GM.** Commander of the Flameguard at Bloomridge, in the Savagebloom Expanse. The handout is titled General Ignar. Over six feet, amber eyes, enchanted flame-resistant armor, and the greatsword Blazebane. He is involved with Aeris Thorne. The full portrait is under Bloomridge.
+**GM.** Commander of the Flameguard at Bloomridge, in the Savagebloom Expanse. Over six feet, muscular, weathered and bronzed by the jungle and by battle. His eyes are an intense amber, said to mirror the flames he commands. His voice is calm and steady, gravel under it. He wears enchanted flame-resistant armor and is rarely without Blazebane, a massive flame-forged greatsword that crackles with inner fire when drawn. He is a strategist and a ferocious fighter, loyal to his soldiers, and set on holding Bloomridge against the Expanse.
+
+He has a casual relationship with the camp's head scribe, Aeris Thorne.
 
 ### Aeris Thorne
 
-**GM.** Head scribe of Bloomridge. Young-looking half-elf, magical glasses, long black hair, a tall crumpled wizard hat. Her tent is books, papers, and stone from lost temples. The Goblin Map sends a searcher to the camp's scribes for the local ruins.
+**GM.** Head scribe of Bloomridge. Miss Aeris Thorne, a young-looking half-elf. Magical glasses. Long black hair under a tall crumpled wizard hat. Her tent holds a single cot, a couple of tables covered in scattered books and papers, and old objects and pieces of stone from lost temples. The Goblin Map says information on the local ruins can be gleaned from some of Bloomridge's scribes. She is that scribe.
 
 ### Garrick "Firebeard" Stonefist
 

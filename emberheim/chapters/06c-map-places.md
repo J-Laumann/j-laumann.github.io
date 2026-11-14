@@ -118,7 +118,7 @@ At the end of the Orcish Uprising, in 935, orcish refugees fled toward this jung
 
 A small camp set in the Savagebloom Expanse for the ground it holds, built around a cluster of ancient temples. The soldiers are the Flameguard. They use fire magic to keep a clearing open against the jungle. The temple stone is blackened with soot. The flicker of flame is the camp's sign that it is still standing, and the jungle's shadow is never far.
 
-The rooms are General Ignar, Aeris Thorne, The Burning Barrel, a general store, the stables, and the church. The general store has no scene of its own. It sells the ordinary list in [Mundane goods](#mundane-goods). The camp names no shopkeeper, stablehand, or priest of its own. Dusthaven's open bounty Axe Beaks is a request from this camp: dead axe beaks, 10 gp each, for artisans assembling and exporting axes.
+The rooms are The Burning Barrel, a general store, the stables, and the church. General Ignar Voryn and Aeris Thorne are among the people of Bloomridge. The general store has no scene of its own. It sells the ordinary list in [Mundane goods](#mundane-goods). The camp names no shopkeeper, stablehand, or priest of its own. Dusthaven's open bounty Axe Beaks is a request from this camp: dead axe beaks, 10 gp each, for artisans assembling and exporting axes.
 
 **GM.** Rex Refund is known here as Floyd Hibiscus Sr. He is the open Dusthaven bounty, and he is one of the two who failed to find the Lost City of Gold. Scorpion Jack was with him. Nothing says he is in the camp.
 
@@ -129,16 +129,6 @@ Food: Blazing Skewers, spicy grilled jungle-boar with a chili glaze and herbs, 2
 Drink: Anything Ale, a robust ale of leftover fruit with a smoky undertone, 5 cp. Flame Kissed Cider, spiced cider with fresh fruit, 1 sp.
 
 **GM.** The Burning Barrel is a tent and the camp tavern. Garrick "Firebeard" Stonefist owns it and runs it, an old dwarf with a singed silver beard.
-
-##### General Ignar
-
-**GM.** General Ignar Voryn. Over six feet, muscular, weathered and bronzed by the jungle and by battle. His eyes are an intense amber, said to mirror the flames he commands. His voice is calm and steady, gravel under it. He wears enchanted flame-resistant armor and is rarely without Blazebane, a massive flame-forged greatsword that crackles with inner fire when drawn. He is a strategist and a ferocious fighter, loyal to his soldiers, and set on holding Bloomridge against the Expanse.
-
-He has a casual relationship with the camp's head scribe, Aeris Thorne.
-
-##### Aeris Thorne
-
-**GM.** Miss Aeris Thorne, a young-looking half-elf. Magical glasses. Long black hair under a tall crumpled wizard hat. Her tent holds a single cot, a couple of tables covered in scattered books and papers, and old objects and pieces of stone from lost temples. The Goblin Map says information on the local ruins can be gleaned from some of Bloomridge's scribes. She is that scribe.
 
 #### Venomshade
 

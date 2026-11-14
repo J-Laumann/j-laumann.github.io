@@ -620,7 +620,7 @@ H2_PAGE = {
     "still-open": "open.html",
 }
 
-GM_SECTIONS = {"tim", "the-elemental-plane-of-air", "miscellaneous-locations"}
+GM_SECTIONS = {"tim", "the-elemental-plane-of-air", "miscellaneous-locations", "the-lost-city-of-gold"}
 GM_PAGES = {"items.html"}
 
 
