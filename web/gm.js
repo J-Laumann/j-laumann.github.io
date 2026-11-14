@@ -74,3 +74,7 @@ if (button && gate && pass) {
     if (event.key === "Escape") gate.hidden = true;
   });
 }
+
+document.querySelectorAll("summary a").forEach((link) => {
+  link.addEventListener("click", (event) => event.stopPropagation());
+});

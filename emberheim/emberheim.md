@@ -59,8 +59,8 @@ The Empire of Emberheim, in the year 980.
   - [The Fae](#the-fae)
 - [The Elemental Plane of Air](#the-elemental-plane-of-air-2)
   - [Yan-C-Bin](#yan-c-bin-2)
-  - [The aarakocra of Shakharra](#the-aarakocra-of-shakharra)
-  - [The couatls](#the-couatls)
+  - [The Aarakocra of Shakharra](#the-aarakocra-of-shakharra)
+  - [The Couatls](#the-couatls)
 - [Campaigns](#campaigns)
   - [Weird West](#weird-west)
     - [The Stolen Schematic](#the-stolen-schematic)
@@ -308,8 +308,6 @@ Flying Boats adds the years after Highrest and sets the present at 980. Years wi
 | 037 | The end of the War of the Heavens |
 | 000 | Jesus is born |
 | ??? | The Era of Gods |
-
-At the end of the Orcish Uprising, in 935, orcish refugees fled toward the Savagebloom Expanse. The wildlife, the goblins, and the yuan-ti slaughtered them. Gorc is the child that camp raised. The Great Propogation, the Victory of the Second Son, the War of the Heavens, the Era of Gods, the Northern Expansion, and the new ports are still names only.
 
 #### Ironspire
 
@@ -847,7 +845,7 @@ Winston's bugbear line runs back to the explosion of magic at the Enigma. This m
 
 **The Lady of the House.** If asked, Alistaire and Malistaire lead them across the hall. She thanks the pair. They hang in the praise, then shut the door.
 
-She has not had guests of this sort in years. She is surprised Evershroud still exists. She thought the fog would have emptied it. Her last visitor was Carter Wint. He took a night like this one and was never charmed by it. She wishes he had stayed. A Node of Air sits just north of the manor. She studies it, and she is interested in what the fae do to it. The fog is the obvious effect. Carter came for the same reason, went through the node, and never returned. The beast weakening the node is the Auran golem, made by the aarakocra from Carter's old notes. The handiwork is close to his. The company destroys it. She is in their debt for that.
+She has not had guests of this sort in years. She is surprised Evershroud still exists. She thought the fog would have emptied it. Her last visitor was Carter Wint. He took a night like this one and was never charmed by it. She wishes he had stayed. A Node of Air sits just north of the manor. She studies it, and she is interested in what the fae do to it. The fog is the obvious effect. Carter came for the same reason, went through the node, and never returned. The beast weakening the node is the Auran golem, made by the Aarakocra from Carter's old notes. The handiwork is close to his. The company destroys it. She is in their debt for that.
 
 ##### Mysterious Note
 
@@ -1324,11 +1322,11 @@ If denied, he curses the party to belong in the ice with the rest. More figures 
 ### The Elemental Plane of Air
 
 
-Carter Wint opened this road. In 973 he found a Node of Air in the Sea of Sand. In 974 he met the aarakocra, learned the name Yan-C-Bin, and started bringing Auran work home. In 975 Yan-C-Bin attacked Shakharra, killed many, and possessed him. Carter retreated to his castle, and from that year Yan-C-Bin has a physical body. The present company sees the cloud islands on summer 21–22, before they ever reach Evershroud.
+Carter Wint opened this road. In 973 he found a Node of Air in the Sea of Sand. In 974 he met the Aarakocra, learned the name Yan-C-Bin, and started bringing Auran work home. In 975 Yan-C-Bin attacked Shakharra, killed many, and possessed him. Carter retreated to his castle, and from that year Yan-C-Bin has a physical body. The present company sees the cloud islands on summer 21–22, before they ever reach Evershroud.
 
 #### Shakharra
 
-The only remaining town of the aarakocra, and it stands in the Elemental Plane of Air. A fortress on a gargantuan floating island. Wooden docks ring a small harbor on the south peninsula. Floating wooden carts are parked along those docks. Lord Kaarak rules it. His name is said kay-rack. The sheet has no GM notes. The Flying Boats company only glimpses the place during the summer of the cloud islands. In 975 Yan-C-Bin attacked it, killed many, and possessed Carter Wint there.
+The only remaining town of the Aarakocra, and it stands in the Elemental Plane of Air. A fortress on a gargantuan floating island. Wooden docks ring a small harbor on the south peninsula. Floating wooden carts are parked along those docks. Lord Kaarak rules it. His name is said kay-rack. The sheet has no GM notes. The Flying Boats company only glimpses the place during the summer of the cloud islands. In 975 Yan-C-Bin attacked it, killed many, and possessed Carter Wint there.
 
 #### Lord Kaarak's Questions
 
@@ -1346,7 +1344,7 @@ Three islands, reached from a node.
 
 **Mined island.** Small, mostly crag. Footing on the north end, then a tunnel to an open quarried middle. A flooded cavern goes deeper, propped with old water-damaged wood. Anything wild in there collapses it. A feral water elemental lives in the water. At the top of the caverns, a small wooden room. The furniture and papers are waterlogged and strewn. One note is hammered above the door. One chunk of Aureleonite is under the dirty water in that room. The sheet spells it Aurelionite. More could be mined deeper in, if the cavern holds.
 
-**Couatl island.** A snaking island, lush on top, two small crags floating beside it. A river winds through the middle, drops down short cliffs, and falls off into mist. Couatls fly lazy between the trees and above them. Some rush in, curious, shapeshift to mimic the company for fun, and mutter Auran in their minds. Behind the tallest waterfall is the nest. Among the sleeping couatls, piles of sticks, grasses, and leaves hold silver, gold, and crystal. If Wint is mentioned, they fetch a stone orb with white glowing lines spiraling on it.
+**Couatl island.** A snaking island, lush on top, two small crags floating beside it. A river winds through the middle, drops down short cliffs, and falls off into mist. Couatls fly lazy between the trees and above them. Some rush in, curious, shapeshift to mimic the company for fun, and mutter Auran in their minds. Behind the tallest waterfall is the nest. Among the sleeping Couatls, piles of sticks, grasses, and leaves hold silver, gold, and crystal. If Wint is mentioned, they fetch a stone orb with white glowing lines spiraling on it.
 
 **Node island.** Large, sparse forest and tall grass, then a sheer cliff. Below the cliff the rock is worked stone, and a huge double door is set in the wall. A small rounded basin stands in front. Smooth twirling runes arch over the doors: "Unlock these doors only if you wish to guard this portal with your life."
 
@@ -1438,7 +1436,7 @@ Evershroud, the fog island, and the node at its center. The Lady of the House is
 
 An arch-fey, and the power at the Evershroud node. She led the Aetherian research there until the Enigma Project took her. The accident left her half-attached to her soul. Around the year 700 she came back to the house. The fog is what the fae do to that node. It thickened in 970, and breathing it causes Mad Mist. Carter visited, was never charmed by a night in the house, went through the node, and never returned. She wishes he had stayed.
 
-Alistaire and Malistaire keep her door and sit with guests the mist takes. In the summer of 980 the company finds her. The beast on the node just north of the manor is the Auran golem, crafted by the aarakocra from Carter Wint's old notes. The company destroys it. She will be in their debt for that. Her own sheet is blank.
+Alistaire and Malistaire keep her door and sit with guests the mist takes. In the summer of 980 the company finds her. The beast on the node just north of the manor is the Auran golem, crafted by the Aarakocra from Carter Wint's old notes. The company destroys it. She will be in their debt for that. Her own sheet is blank.
 
 ### The Fae
 
@@ -1446,27 +1444,27 @@ The fog at Evershroud is their work on the node. It was a light mist for centuri
 
 Alistaire and Malistaire keep the Lady's door. On Party Night they sit with Winston Bor and say they have kept him alive. His bugbear line runs back to the explosion of magic at the Enigma, and this mist is that magic mixed with the node. In his blood it is stronger. The company eases the change. He becomes a full fae. The crowd of fae leaving the manor takes him to the Enigma.
 
-The beast on the node is the Auran golem the company was told about. The aarakocra made it from Carter's old notes, and the handiwork shows it. The Flying Boats company destroys it.
+The beast on the node is the Auran golem the company was told about. The Aarakocra made it from Carter's old notes, and the handiwork shows it. The Flying Boats company destroys it.
 
 ## The Elemental Plane of Air
 
-The present war. Yan-C-Bin holds the plane. The aarakocra of Shakharra and the couatls are who still stand against him. The places themselves are under Locations.
+The present war. Yan-C-Bin holds the plane. The Aarakocra of Shakharra and the Couatls are who still stand against him. The places themselves are under Locations.
 
 ### Yan-C-Bin
 
-The great power of the present. In 970 a minor victory against the aarakocra leaks magic into the physical plane and thickens the fog at Evershroud. In 975 he attacks Shakharra, kills many, and possesses Carter Wint. From that year he has a physical body: Carter's, an air genasi, and he is using that blood and Carter's magic to raise an army of Auran constructs. He holds the Elemental Plane of Air and has wrapped it in storm. He is putting down the aarakocra and the couatls, and he is trying to enter the physical plane through the strongest node he can. The timeline writes him Yan-C Bin, without the second hyphen.
+The great power of the present. In 970 a minor victory against the Aarakocra leaks magic into the physical plane and thickens the fog at Evershroud. In 975 he attacks Shakharra, kills many, and possesses Carter Wint. From that year he has a physical body: Carter's, an air genasi, and he is using that blood and Carter's magic to raise an army of Auran constructs. He holds the Elemental Plane of Air and has wrapped it in storm. He is putting down the Aarakocra and the Couatls, and he is trying to enter the physical plane through the strongest node he can. The timeline writes him Yan-C Bin, without the second hyphen.
 
-An agent of his comes through near Azure Lagoon in the summer of 980 and is killed. He names Yan-C-Bin as he dies. Another agent is sent through a node in 97?, barely, and takes Kayren's life after killing that family. That one is a player character. The 976 golem sent through the Evershroud node was built by the aarakocra from Carter's early Aureleonite and Aurelic Crystal work.
+An agent of his comes through near Azure Lagoon in the summer of 980 and is killed. He names Yan-C-Bin as he dies. Another agent is sent through a node in 97?, barely, and takes Kayren's life after killing that family. That one is a player character. The 976 golem sent through the Evershroud node was built by the Aarakocra from Carter's early Aureleonite and Aurelic Crystal work.
 
-### The aarakocra of Shakharra
+### The Aarakocra of Shakharra
 
 Shakharra is their only remaining town, a fortress on a floating island in the Elemental Plane of Air. Lord Kaarak rules it. His name is said kay-rack. He holds the last key to Carter Wint's underwater laboratory. In the summer of 980 the Flying Boats company only glimpses the city, and Kaarak questions McMasterson in a room of nondetection. The way back, if a sigil is shown, is the same node. The sheet does not say the sigil was given.
 
-They refined Carter's early metal and crystal into the golem sent through Evershroud in 976. In the summer of the cloud islands the company breaks an aarakocra ritual that opens a node home for a moment. Their war with Yan-C-Bin is not finished.
+They refined Carter's early metal and crystal into the golem sent through Evershroud in 976. In the summer of the cloud islands the company breaks an Aarakocra ritual that opens a node home for a moment. Their war with Yan-C-Bin is not finished.
 
-### The couatls
+### The Couatls
 
-They keep an island on the Plane of Air, and the key to the First Node, a stone orb traced with white lines. Mention Wint and they fetch it. Some of the elders still hold an outward node. In 978 they send Elric Caltor through it, a couatl in disguise, as a last attempt to find help. Their ritual opened the inward node to the south and began Flying Boats. Carter did not send him. The company is not written as knowing what he is. Elric's sheet spells the people coatls.
+They keep an island on the Plane of Air, and the key to the First Node, a stone orb traced with white lines. Mention Wint and they fetch it. Some of the elders still hold an outward node. In 978 they send Elric Caltor through it, a Couatl in disguise, as a last attempt to find help. Their ritual opened the inward node to the south and began Flying Boats. Carter did not send him. The company is not written as knowing what he is. Elric's sheet spells the people coatls.
 
 ## Campaigns
 
@@ -1538,7 +1536,7 @@ Wendy sees a steel construct in BBQ's league, then two classmates from Iron Spir
 
 Az recognizes the Graves siblings from Dusthaven. Before the party existed they stole bounties out from under Az, then left for Steamwood years ago. Evelyn, Cyrus, and Gideon. Evelyn carries a rifle, Cyrus a pistol, and Gideon a shotgun. All three are exceptional shots.
 
-Khan, long gone from the city, picks out old bottom-dwellers seated with strangers rather than with each other. One of them was the Robin Hood of those years: the Dagger of the People, blackmailer of corrupt nobles and killer of lawless judges. Almost nobody knows the face. Khan does. Sorrin Quill, a black-feathered aarakocra.
+Khan, long gone from the city, picks out old bottom-dwellers seated with strangers rather than with each other. One of them was the Robin Hood of those years: the Dagger of the People, blackmailer of corrupt nobles and killer of lawless judges. Almost nobody knows the face. Khan does. Sorrin Quill, a black-feathered Aarakocra.
 
 Clint is surprised to see local legends. Haruki Kurosawa claims another world, carries a legendary blade from home, and has the will to beat all evil. He is a hero in every way except the official one, and he has a fan club. Talia Moss, the Verdant Viper, is a half-elf druid. Green tattoos and serpent gear come from an upbringing in the Savagebloom Expanse. She is a vigilante, and the real law keeps catching up with her.
 
@@ -1586,23 +1584,23 @@ McMasterson captains an expedition for Emberheim into the mystery of the Plane o
 
 Flying Boats keeps a second list, newest first. The two summer dates sit above the year 980 and do not name a year of their own.
 
-**Summer 23–24.** The company reaches Evershroud, meets its people, and goes into the fog. They meet Mister and find The Lady of the House. They ease Winston Bor's change. He becomes a full fae, and the crowd of fae leaving the manor takes him to the Enigma. They are told of a nearby node, guarded by an Auran golem. That golem and the beast on the node are the same creature. The aarakocra crafted it from Carter Wint's old notes, and the work shows his hand. The company destroys it.
+**Summer 23–24.** The company reaches Evershroud, meets its people, and goes into the fog. They meet Mister and find The Lady of the House. They ease Winston Bor's change. He becomes a full fae, and the crowd of fae leaving the manor takes him to the Enigma. They are told of a nearby node, guarded by an Auran golem. That golem and the beast on the node are the same creature. The Aarakocra crafted it from Carter Wint's old notes, and the work shows his hand. The company destroys it.
 
-**Summer 21–22.** A node leads to islands isolated in the clouds. They meet couatls, find an abandoned mine, learn that Carter Wint exists, and glimpse Shakharra. They defeat an aarakocra ritual. That opens a node home for a moment. An Auran agent comes through near Azure Lagoon and is killed at once. Before he dies he names Yan-C-Bin.
+**Summer 21–22.** A node leads to islands isolated in the clouds. They meet Couatls, find an abandoned mine, learn that Carter Wint exists, and glimpse Shakharra. They defeat an Aarakocra ritual. That opens a node home for a moment. An Auran agent comes through near Azure Lagoon and is killed at once. Before he dies he names Yan-C-Bin.
 
 **980.** The company sets out to investigate a new Node of Air in the Frosthook mountains.
 
-**978.** The couatls send Elric Caltor into Emberheim, a couatl in disguise, to watch Kincaid and the nodes. Carter did not send him.
+**978.** The Couatls send Elric Caltor into Emberheim, a Couatl in disguise, to watch Kincaid and the nodes. Carter did not send him.
 
-**976.** An Auran golem is sent through the node in Evershroud. The aarakocra made it by refining Carter's early Aureleonite and Aurelic Crystal work.
+**976.** An Auran golem is sent through the node in Evershroud. The Aarakocra made it by refining Carter's early Aureleonite and Aurelic Crystal work.
 
 **975.** Yan-C-Bin attacks Shakharra, kills many, and possesses Carter Wint. Carter is forced back to his castle. Yan-C-Bin is physically manifest from here.
 
-**974.** Carter helps Evershroud hold off the fog and plants a magic barrier in the church. He leaves an Aurelic Crystal. Kincaid Wint eventually obtains it. Through a local node he meets The Lady of the House. He meets the aarakocra, learns of Yan-C-Bin, begins to study Auran tech, and brings some home.
+**974.** Carter helps Evershroud hold off the fog and plants a magic barrier in the church. He leaves an Aurelic Crystal. Kincaid Wint eventually obtains it. Through a local node he meets The Lady of the House. He meets the Aarakocra, learns of Yan-C-Bin, begins to study Auran tech, and brings some home.
 
 **973.** Carter Wint discovers a Node of Air in the Sea of Sand. The historical sheet's line for this year is the ports, not this node.
 
-**970.** Yan-C-Bin has a minor victory against the aarakocra. Magic leaks into the physical plane. This is when the fog around Evershroud began to thicken.
+**970.** Yan-C-Bin has a minor victory against the Aarakocra. Magic leaks into the physical plane. This is when the fog around Evershroud began to thicken.
 
 **97?.** Kayren and his family are killed. An Auran agent replaces him and takes over his life. That agent is the player character. **GM.** His faceless nightmares are of Auran make. He was once something similar. He was sent through a node, barely, and told to kill that family so he could take a position of power.
 
@@ -1730,7 +1728,7 @@ A named sheet under Ironspire NPCs. No player text and no GM text.
 
 ### Sorrin Quill
 
-Black-feathered aarakocra. One sheet spelled him Sorin. In the years Khan was a bottom-dweller, the city knew this person as the Dagger of the People: blackmail for corrupt nobles, death for lawless judges. Almost nobody knows the face or the name. Khan does. At the Gilded Gear he leans over a high railing and waves down.
+Black-feathered Aarakocra. One sheet spelled him Sorin. In the years Khan was a bottom-dweller, the city knew this person as the Dagger of the People: blackmail for corrupt nobles, death for lawless judges. Almost nobody knows the face or the name. Khan does. At the Gilded Gear he leans over a high railing and waves down.
 
 ### Rival heroes
 
@@ -1776,15 +1774,15 @@ Bugbear blood, from the burst of magic at the Enigma. The mist at Evershroud is 
 
 ### Elric Caltor
 
-**GM.** A couatl in disguise. His sheet writes the people as coatls. In 978 the couatls sent him through an outward node they still hold, a last attempt to find help against Yan-C-Bin. Their ritual opened the inward node to the south and began Flying Boats. Carter did not send him. Nothing here says the company knows what he is.
+**GM.** A Couatl in disguise. His sheet writes the people as coatls. In 978 the Couatls sent him through an outward node they still hold, a last attempt to find help against Yan-C-Bin. Their ritual opened the inward node to the south and began Flying Boats. Carter did not send him. Nothing here says the company knows what he is.
 
 ### Carter Wint
 
-Air genasi. He does not need to breathe, which is how he reaches the laboratory under the lake. In 973 he found a Node of Air in the Sea of Sand. In 974 he held the fog back at Evershroud, left a barrier in the church and an Aurelic Crystal, met The Lady of the House through a node, and began learning Auran work from the aarakocra. In 975 Yan-C-Bin possessed him during the attack on Shakharra and drove him back to his castle. The body is the body Yan-C-Bin wears. The quarry note is signed C. W. The GM line under that note is the one word Carter.
+Air genasi. He does not need to breathe, which is how he reaches the laboratory under the lake. In 973 he found a Node of Air in the Sea of Sand. In 974 he held the fog back at Evershroud, left a barrier in the church and an Aurelic Crystal, met The Lady of the House through a node, and began learning Auran work from the Aarakocra. In 975 Yan-C-Bin possessed him during the attack on Shakharra and drove him back to his castle. The body is the body Yan-C-Bin wears. The quarry note is signed C. W. The GM line under that note is the one word Carter.
 
 ### Yan-C-Bin
 
-**GM.** He has taken physical form in Carter Wint's body. He is using Carter's air genasi blood and Carter's magic to build an army of Auran constructs. He has taken the Plane of Air and wrapped it in storm. He is putting down aarakocra and couatl resistance, and he is trying to enter the physical plane through the strongest node he can. The timeline writes his name Yan-C Bin, without the second hyphen. In 970 a smaller victory of his leaked magic into the world and thickened the Evershroud fog. In 975 he took Carter. In the summer of 980 an agent of his died near Azure Lagoon and spoke the name.
+**GM.** He has taken physical form in Carter Wint's body. He is using Carter's air genasi blood and Carter's magic to build an army of Auran constructs. He has taken the Plane of Air and wrapped it in storm. He is putting down Aarakocra and Couatl resistance, and he is trying to enter the physical plane through the strongest node he can. The timeline writes his name Yan-C Bin, without the second hyphen. In 970 a smaller victory of his leaked magic into the world and thickened the Evershroud fog. In 975 he took Carter. In the summer of 980 an agent of his died near Azure Lagoon and spoke the name.
 
 ### Lord Kaarak
 
@@ -2727,7 +2725,7 @@ Armor of it does not impose disadvantage on Stealth, grants advantage on Acrobat
 
 Weapons of it have double thrown range, or 20/60 if the weapon has no thrown range, and they return on a miss. They have +1 to hit and not to damage. On a critical hit, an extra 1d6 thunder as the weapon cuts the air.
 
-**GM.** The true name is Aureleonite, given by the aarakocra who mine and work it. An older note spelled that Aurelionite. The party that found the ore apart from them called it Floab, a joke, and only they use that name. The sheet also writes Flobe.
+**GM.** The true name is Aureleonite, given by the Aarakocra who mine and work it. An older note spelled that Aurelionite. The party that found the ore apart from them called it Floab, a joke, and only they use that name. The sheet also writes Flobe.
 
 ### Gauntlets of Unyielding Grasp
 
@@ -2792,8 +2790,8 @@ Where From Brews to Bullion stands:
 
 Where Flying Boats stops:
 
-- The Auran golem on the Evershroud node was the beast the Lady feared. The aarakocra made it from Carter's old notes. The company destroyed it. What she owed them for that is not written.
-- Yan-C-Bin holds the Plane of Air in Carter Wint's body. The resistance of the aarakocra and the couatls is not finished. Elric Caltor is in Emberheim, and the company is not written as knowing what he is.
+- The Auran golem on the Evershroud node was the beast the Lady feared. The Aarakocra made it from Carter's old notes. The company destroyed it. What she owed them for that is not written.
+- Yan-C-Bin holds the Plane of Air in Carter Wint's body. The resistance of the Aarakocra and the Couatls is not finished. Elric Caltor is in Emberheim, and the company is not written as knowing what he is.
 - McMasterson asked how to return to Lord Kaarak. The answer assumes a sigil. Nothing says he was given one.
 - The Frosthook node is why they set out in 980. Nothing says they reached it. Falner's Furs is unwritten.
 - Winston Bor became a full fae and was taken to the Enigma. What he is doing there is not written.

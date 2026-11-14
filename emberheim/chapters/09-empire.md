@@ -2,21 +2,33 @@
 
 The empire's own institutions. The Council rules, the Church keeps the faith and the spell lists, and the Heroes of Emberheim are the titled company the empire sends.
 
-### Council of Emberheim
+### The Council
 
 The government. It meets in the Imperial Palace in Ironspire, and no building in the capital may rise above that palace. Seven chairs pass the major laws, order the military, and approve new inventions.
 
-| Seat | Charge | Who sits it |
+| Seat | Icon | Who sits it |
 | --- | --- | --- |
-| Scales | Trade | Orwin Delvane |
-| Ship | Transportation | Essira Tidewake |
-| Open Book | Arcane | Vaelrix Morra |
-| Gear | Innovation | Fenwick Sprox |
-| Tree | Land | Bren Tallwood |
-| Cross | Faith | Archbishop Evalyne |
-| Swords | War | Kael Durnhart |
+| Trade | Scales | Orwin Delvane |
+| Transportation | Ship | Essira Tidewake |
+| Arcane | Open Book | Vaelrix Morra |
+| Innovation | Gear | Fenwick Sprox |
+| Land | Tree | Bren Tallwood |
+| Faith | Cross | Archbishop Evalyne |
+| War | Swords | Kael Durnhart |
 
-Orwin is a portly man in his fifties, gold thread and cologne and ringing rings. Essira is a lean water genasi, white braid, naval coat, compass pins, muddy boots she is not allowed to put on the table. The Flying Boats sheet repeats that description and adds no new office. Vaelrix is an elf born in Aetheria more than six hundred years ago, violet eyes, and a glove that never leaves his left hand. Fenwick is a gnome with mismatched eyes, silver goggles, and a mechanical arm. Bren looks ancient, bark along the arms, moss in the beard, and he speaks as if each word were stone. Kael is a dwarf who wears ceremonial steel in council, beard braided to three iron-tipped points, a sword against every table. Evalyne's sheet is the one word Missing.
+**Trade, Orwin Delvane.** A portly man in his mid-fifties, neatly trimmed goatee, robe lined with gold thread. He always smells faintly of cologne and ink. His rings jingle when he signs paperwork. Sheet: Trade - Orwin Delvane.
+
+**Transportation, Essira Tidewake.** A lean water genasi woman with light-blue skin and long white hair in a single braid. She wears a weather-beaten naval coat pinned with compasses. She leans back in her chair and would put her muddy boots on the table if anyone allowed it. Sheet: Transportation - Essira Tidewake. The Flying Boats sheet Essira Tidewake repeats this description and adds nothing.
+
+**Arcane, Vaelrix Morra.** An ageless, regal elven man with luminous violet eyes and layered robes inscribed with glyphs. His voice carries an aged weight. His left hand stays in a silk glove and the glove never comes off. He was born in Aetheria more than six hundred years ago. Sheet: Arcane - Vaelrix Morra.
+
+**Innovation, Fenwick Sprox.** A middle-aged gnome. Blond hair slicked back with streaks of silver, silver goggles over a blue left eye and a brown right eye. A mechanical arm rests on the table under a stained leather coat. Sheet: Innovation - Fenwick Sprox.
+
+**Land, Bren Tallwood.** He looks ancient: towering, calm, moss in the beard, bark-like skin along the arms. A long green cloak clasped with antler bone. He speaks slowly, as if weighing every word like stone. Sheet: Land - Bren Tallwood.
+
+**Faith, Archbishop Evalyne.** The player note is one word: Missing. Sheet: Faith - Archbishop Evalyne.
+
+**War, Kael Durnhart.** A broad-shouldered dwarf in ceremonial steel even in council. His beard is braided into three points tipped with iron clasps. His voice is gravel on steel. A sword leans on every table he sits at. Sheet: War - Kael Durnhart.
 
 In Weird West, Torren Blackholt walks the new heroes up to the podiums. Six councilors are sitting. Faith's chair is the empty one. The empire's request is never written down. Nothing later says the seats have changed.
 

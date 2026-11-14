@@ -1,3 +1,15 @@
+## Artifacts
+
+### The Sunfire Prism
+
+The prism is said to be lost in those remains. Elowen Sunweaver created the temple that housed it, and her journals of the search are sealed in the tower that is now the Dusthaven mayor's office. One of those journals is the sheet Elowen's Journal.
+
+**GM. Revealing the temple.** Inside a nest are eight marbles: blue, yellow, red, green, purple, orange, white, and black. The sheet says "6 marbles" and then lists eight colors. Under the remains of the nest, alone in the desert, a stone circle is carved with a triangle and an indent at each corner. Around the platform:
+
+> To forge ahead, rewind the thread, Where the journey began, the path ahead is spread. In the footsteps of yore, your course is read, To reach your goal, return to where you were led.
+
+Blue, green, and white, set in the triangle, raise a stone temple out of the desert. Sand pours off it like water. It blots out the sun. A long stair leads to a pair of stone doors.
+
 ## Magic items
 
 The Sun Prism stayed with Tor Longtooth after he took it at the Sunfire collapse. The Orecrusher staff is with Wendy.

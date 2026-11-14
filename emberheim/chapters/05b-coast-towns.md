@@ -176,7 +176,7 @@ Winston's bugbear line runs back to the explosion of magic at the Enigma. This m
 
 **The Lady of the House.** If asked, Alistaire and Malistaire lead them across the hall. She thanks the pair. They hang in the praise, then shut the door.
 
-She has not had guests of this sort in years. She is surprised Evershroud still exists. She thought the fog would have emptied it. Her last visitor was Carter Wint. He took a night like this one and was never charmed by it. She wishes he had stayed. A Node of Air sits just north of the manor. She studies it, and she is interested in what the fae do to it. The fog is the obvious effect. Carter came for the same reason, went through the node, and never returned. The beast weakening the node is the Auran golem, made by the aarakocra from Carter's old notes. The handiwork is close to his. The company destroys it. She is in their debt for that.
+She has not had guests of this sort in years. She is surprised Evershroud still exists. She thought the fog would have emptied it. Her last visitor was Carter Wint. He took a night like this one and was never charmed by it. She wishes he had stayed. A Node of Air sits just north of the manor. She studies it, and she is interested in what the fae do to it. The fog is the obvious effect. Carter came for the same reason, went through the node, and never returned. The beast weakening the node is the Auran golem, made by the Aarakocra from Carter's old notes. The handiwork is close to his. The company destroys it. She is in their debt for that.
 
 ##### Mysterious Note
 

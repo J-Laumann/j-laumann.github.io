@@ -21,5 +21,3 @@
 | 037 | The end of the War of the Heavens |
 | 000 | Jesus is born |
 | ??? | The Era of Gods |
-
-At the end of the Orcish Uprising, in 935, orcish refugees fled toward the Savagebloom Expanse. The wildlife, the goblins, and the yuan-ti slaughtered them. Gorc is the child that camp raised.

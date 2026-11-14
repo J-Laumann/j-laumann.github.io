@@ -27,8 +27,8 @@ Where From Brews to Bullion stands:
 
 Where Flying Boats stops:
 
-- The Auran golem on the Evershroud node was the beast the Lady feared. The aarakocra made it from Carter's old notes. The company destroyed it. What she owed them for that is not written.
-- Yan-C-Bin holds the Plane of Air in Carter Wint's body. The resistance of the aarakocra and the couatls is not finished. Elric Caltor is in Emberheim, and the company is not written as knowing what he is.
+- The Auran golem on the Evershroud node was the beast the Lady feared. The Aarakocra made it from Carter's old notes. The company destroyed it. What she owed them for that is not written.
+- Yan-C-Bin holds the Plane of Air in Carter Wint's body. The resistance of the Aarakocra and the Couatls is not finished. Elric Caltor is in Emberheim, and the company is not written as knowing what he is.
 - McMasterson asked how to return to Lord Kaarak. The answer assumes a sigil. Nothing says he was given one.
 - The Frosthook node is why they set out in 980. Nothing says they reached it. Falner's Furs is unwritten.
 - Winston Bor became a full fae and was taken to the Enigma. What he is doing there is not written.

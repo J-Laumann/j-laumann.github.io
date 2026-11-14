@@ -8,17 +8,7 @@ The stolen schematic, the gigs, the sack of cold, the contest, and the audience 
 
 ##### Imperial Palace
 
-The center of government. The Council of Emberheim passes the major laws. Seven chairs:
-
-| Seat | Charge |
-| --- | --- |
-| Scales | Overseer of Trade |
-| Ship | Overseer of Transportation |
-| Open Book | Overseer of the Arcane |
-| Gear | Overseer of Innovation |
-| Tree | Overseer of Land |
-| Cross | Overseer of Faith |
-| Swords | Overseer of War |
+The center of government. The Council passes the major laws. The seats, the icons, and who holds them are written with The Council.
 
 **GM, from Official Business.** A Bronze Hero Badge hums and shocks in the pocket when Torren Blackholt calls. He waits at the palace doors, hands behind his back, and says the empire has a small request, and that a couple of church figures wanted to catch the heroes while they were in the building.
 
@@ -27,22 +17,6 @@ The lobby is about thirty feet high. A thin waterfall glosses a brass map of Emb
 Nicholas thanks them for the church, congratulates them on becoming heroes, and says he knew they could do it. The gnome thanks them for the people they saved and for what the church got out of the Velkhana crystal. He returns the crystal. The research confirms they entered the Ninth Circle of Hell and fought one of its guardians. The notes themselves will not help much. He wants someone capable to look at the crystal: it is a serious source of magical power and could make fantastic gear. Nicholas adds that the badges make it much easier to convince the church to hire them, then leaves.
 
 Torren takes them up in a brass cage. Levers and a button. Several floors up he opens double doors and announces the young heroes. Six figures sit on slightly raised podiums. The sheet ends there. Faith's seat is the empty one: Archbishop Evalyne is marked Missing, which leaves six councilors in the room.
-
-##### The overseers
-
-**Trade, Orwin Delvane.** A portly man in his mid-fifties, neatly trimmed goatee, robe lined with gold thread. He always smells faintly of cologne and ink. His rings jingle when he signs paperwork. Sheet: Trade - Orwin Delvane.
-
-**Transportation, Essira Tidewake.** A lean water genasi woman with light-blue skin and long white hair in a single braid. She wears a weather-beaten naval coat pinned with compasses. She leans back in her chair and would put her muddy boots on the table if anyone allowed it. Sheet: Transportation - Essira Tidewake. The Flying Boats sheet Essira Tidewake repeats this description and adds nothing.
-
-**Arcane, Vaelrix Morra.** An ageless, regal elven man with luminous violet eyes and layered robes inscribed with glyphs. His voice carries an aged weight. His left hand stays in a silk glove and the glove never comes off. **GM.** He was born in Aetheria more than six hundred years ago. Sheet: Arcane - Vaelrix Morra.
-
-**Innovation, Fenwick Sprox.** A middle-aged gnome. Blond hair slicked back with streaks of silver, silver goggles over a blue left eye and a brown right eye. A mechanical arm rests on the table under a stained leather coat. Sheet: Innovation - Fenwick Sprox.
-
-**Land, Bren Tallwood.** He looks ancient: towering, calm, moss in the beard, bark-like skin along the arms. A long green cloak clasped with antler bone. He speaks slowly, as if weighing every word like stone. Sheet: Land - Bren Tallwood.
-
-**Faith, Archbishop Evalyne.** The player note is one word: Missing. Sheet: Faith - Archbishop Evalyne.
-
-**War, Kael Durnhart.** A broad-shouldered dwarf in ceremonial steel even in council. His beard is braided into three points tipped with iron clasps. His voice is gravel on steel. A sword leans on every table he sits at. Sheet: War - Kael Durnhart.
 
 ##### The Church of Ironspire
 

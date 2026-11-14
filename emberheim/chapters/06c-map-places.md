@@ -2,46 +2,117 @@
 
 The mesa and mountain country on the west of the map, with a blue oasis lake. Highrest and Castle Darkstone are printed here.
 
+##### The Orecrusher Vault
+
+**GM.** Clive asks a fair share of the loot and, in return, leads the party and helps as he can. The undead who chased him are blamed, on his sheet, on local necromancers.
+
+An easy-to-miss crack in a cliff opens onto a natural chamber. The far wall is built. A massive stone door, intricate dwarven runes, a hum of arcane energy. Beside the entrance, a small stone dragon with its mouth open. The riddle:
+
+> I'm sought by many, prized by all, Those who have me, use me well. Forged in the earth, yet born of fire, I'm the key to what you desire.
+
+Gold placed in the dragon's mouth starts the mechanisms. Stone slides aside. A carved path, unlit torches, stale air.
+
+The first room is a floor of symbolic runes. A crumbling skeleton lies on one tile. The far arch is a verse in Dwarven:
+
+> In the forge's fiery dance, a tale unfolds, Hammer's rhythm, a story of swords untold. Steel whispers secrets, the anvil sings, A warrior's blade, from the heart of the forge springs.
+
+A wrong tile: DC 15 Dexterity save, 3d6 piercing, half on a success. An iron spike snaps up through the center of the tile.
+
+The next room is wide and dark. Light catches a smooth vault door and a large brass spindle. The crank will not move until it is touched. Then the floor opens and a brass guardian rises in steam and attacks. When it dies, the spindle turns itself to the left, thuds, and the door creaks. The smell is old wood and metal.
+
+The "room" is an alcove: a pedestal, two display cases, two chests. The chests are ordinary banded wood with no visible lock. The cases are fine wood with glass tops. The left case holds a lever-action firearm of gold metal and engraved ivory where the wood should be. The right case holds a staff: a brass bulb, an iron scepter, a decorated brass head hooked at one end, and a small brass cauldron beside the hook. That is the Staff of the Cauldron Carrier. The pedestal wears a miner's hat, a metal helm with a glass lamp on the front. The sheet calls it ordinary-looking. It is a helmet of identification, and it is the steel helmet with the monocle flip-downs Clive still wears in Ironspire. The plaque above it reads, in Dwarven, "Creators of the Orecrusher's Fortune."
+
+The left chest: 1,600 sp, 80 gp, and a pouch of seven small gems at 50 gp each, plus a darkened silver ring cracked across an otherwise smooth face. That ring is the Ring of Seething, later in Tor's gear. The right chest is a mechanical mimic. It opens with a click, metal teeth, and surprise.
+
+##### Cult of Boogle
+
+Ages ago, dwarves dug too deep and uncovered Boogle, a powerful vampire sealed in the mountains. His release destroyed that stretch of dwarven civilization except for the dwarves who kneeled. He wants blood and violence, and above all subservience. Exposure to him, and the long life underground, turned those dwarves into duergar. They are cannibals now. Sometimes they come to the surface to hunt. Below, their own housing is crude. The buildings they keep carving for Boogle are grand.
+
+BBQ's pack includes raw duergar gold, ten pounds. The Boogle Ki Ring is in Gulp's gear.
+
+##### Xanthis' Tower
+
+**GM.** His actions in The Shadow are with that quest.
+
+**Basement, the harbor.** The river bends and the tower looms. Flat ground after miles of ravine. Desiccated skeletons, mooring ropes, a long-broken dock. An arch into the bottom floor: crates, urns, and one huge zombie in a fine suit of splint, slowly checking crates. On the northeast wall a beam holds a bell and a thick rope. Ring the bell and the skeletons stand up to do what the harbormaster asks. The boxes are weapons, bows, and arrows.
+
+**Floor 0, the undead organ.** A slow harrowing tune. A mountain of rotting muscle plays a giant organ with his back to the room. A skeleton on a central table. Dull green energy swells with the song. Coffins and loose skeletons along the walls. Crates of poor melee weapons, bows, and arrows. A giant arched double door west. At the climax the skeleton bolts up, grabs a rusty sword, and goes out to a battle. The door shuts. The ogre-zombie lays out another skeleton and starts again.
+
+The ogre can, as an extra action, play a short melody and animate two skeletons from the piles. The closet has better arms: a +1 shortbow, a +1 shield, and a +1 chain shirt. On the table by the organ: a dark dagger with green gems in the handle. It deals necrotic instead of piercing. Used on a corpse, it rots the flesh off the bone where it is left. Also 40 gp, 280 sp, and a pot of 2,000 cp. A fresh humanoid skeleton lies on that edge of the table. An open crate beside it is full of rotten meat and organs.
+
+**Floor 1, the laboratory.** Dim. Shelves of ingredients, bubbling potions, arcane apparatus. A large cauldron on a stone pedestal. Inscriptions and diagrams, clutter, embalmed cadavers of various creatures. A coffin-shaped double door on the south wall, closed and locked. Beside it a knocked-over potion. The last drop of a dark blue-gray liquid hits the boards among shattered glass.
+
+The diagrams and ingredients are unlabeled. In order, they read as a huge flask of viscous red liquid, crushed clear crystals, a light fluffy ball floating in its bottle, a purple powder, red and orange flowers, and chunks of fermented root. In that order they make an elixir of strength, a potion of invisibility, a draught of levitation, an elixir of clairvoyance, and a potion of fire breath. The root reverses each: weakness, faerie fire, heaviness that forces the drinker prone, foggy mind, and cold body.
+
+The door opens if someone drinks heaviness and cold body and falls backward into it. Their weight swings the door. A force catches them before the floor. Passing through the archway cancels the potions.
+
+**Floor 4, maybe, the bedroom.** The sheet itself questions the floor number. The chest of magical experiments holds:
+
+- **Boots of Gravity.** Bonus action to toggle. While on, the wearer is immune to forced movement, including being knocked prone, gains a climb speed equal to their walk, and all movement is halved.
+- **Potion of Invincibility.** Bonus action to drink. For one hour the drinker no longer knows their hit-point total and feels no pain. The damage still happens.
+- **Circlet of True Sight.** Bonus action. True sight out to a chosen range. Every 10 feet of range costs 2d6 psychic, and that damage cannot be reduced.
+- **Gnarled twisted wooden wand.** A dull green glow in the roots. A magical charge inside moves with gravity. When it moves, the wand says "wahHH" or "WAHhh," higher as the charge nears the tip, and a little louder every time. An action spent shaking it makes it fully green: bright light 10 feet, dim light 10 feet beyond, for one minute.
+
+Also dozens of gemstones and a large pile of gold and silver. The sheet says the party should feel they ought to reunite with Tor before looting any of it. The party receives 600 gp.
+
+
 #### The Sea of Sand
 
 The dune sea below the Reach. Dusthaven stands in it. Scorpion Gulch is printed in the same desert, and the bounty sheet calls it a three-day ride south of Dusthaven. In 973 Carter Wint found a Node of Air somewhere in this desert. The sheet does not mark the spot.
+
+##### Sunfire Temple
+
+The sheet is a string of keyed areas and treasure, all GM notes. Areas that are not listed were not on the sheet.
+
+**Area 7.** A stone platform in a natural cave. Another platform far opposite. Wooden disks hang from the ceiling on massive steel chains. The cave floor is a pool of boiling oil: viscous black bubbles, an unforgettable stench. A geyser erupts as the party enters, spraying oil and steam and shaking platforms. Every jump is a DC 15 Athletics check. A simple failure means the jumper stays put rather than fall. Failing by 5 or more leaves them dangling, with disadvantage on Strength saves if a geyser hits, and a DC 10 Athletics check to climb back. Failing by 10 or more is a fall. The oil deals 4d10 fire at the start of each turn spent in it.
+
+**Area 8.** The door opens into utter blackness. Ctenmiir is a vampire here, cursed by an avatar of the sun to stay in a trance except when roused to defend his treasure. Under the coffin: the first ingredient, a glass orb glowing from within and full of constantly swirling sand. Also 5,000 sp, 1,500 gp, a potion of mind reading, and scrolls of summon elemental, dispel magic, and magic mouth.
+
+**Area 10.** The kelpie's lair: 600 gp, the Amulet of Shifting Seaweed, and a +1 chain shirt.
+
+**Area 13.** Snarla's sanctum: 250 gp and seven fine-cut gems at 200 gp each.
+
+**Area 17.** Behind a brass chest, a pool of bubbling radiance. Harsh to look at. Treasure: a giant ruby worth 2,000 gp, four large gems at 500 gp each, Goggles of Night, and a luckstone.
+
+**Area 24.** The hydra's lair holds the corpse of Kentucky James, a famous tomb robber turned marauder. His bounty is still open, dead or alive, for 1,000 gp. He also carries 150 gp, four 50 gp gems, and Boots of Striding.
+
+**Area 27.** The second ingredient: a glass prism with a brass frame. Also 20 pp, 600 gp, four pieces of fine jewelry at 150 gp each, two potions of greater healing, and a scroll of protection against fiends. Qesnef wears a ring of protection, a ring of spell storing with two mirror images in it, and an Urnblade.
+
+**Crafting the prism.** Insert the gel-orb into the prism and dip it in the Pool of Radiance. A blinding light, then a woman's voice. She congratulates whoever bested her trials, says they deserve the artifact they are about to recreate, and asks them to come to the Enigma and ask for Newole. She hopes to see them soon. The light goes. The pool is dimmer. Above it floats a prism of shifting desert colors, with a holy aura, comfortably warm. Then the room heats. The bubble fades. Steam comes through holes. The ground shakes, then quakes. A DC 14 Dexterity save or 3d8 bludgeoning from falling brick. Sand reaches the knees at the spiral stair. They outrun it to the entry and dive under the crumbling arch into harsh desert sun.
+
+What meets them is a sharp toothy grin and the cocking of firearms, barely heard over the stone. Brown scales, reptilian eyes: Tor Longtooth. The grin becomes recognition, surprise, and sorrow.
+
+He is grieved that fate reunited them here. Old comrades, separated by differences too vast to bridge. He names himself Tor Longtooth, Chieftain of the Marauders. This is the same Tor who keeps the tent in Highrest. He did not leave out of spite. He could not tolerate "that heathen," or parley with necromantic forces. He says it tore at his soul, and he would not watch the lands fall under that shadow. He tells the newer members they do not know the shared history, but that the party now stands in the way of his quest to reclaim the lands from the necromantic threat. Stand aside, or he is forced here and now.
+
+He had followed them from Dusthaven in secret. Zephyr Scorchblade and Sirocco Emberweaver are already dead, killed when the party broke the Marauders' attack there and freed the captives. What he wants from this doorway is the Sun Prism the party has just remade.
+
+He offers a hand, with real pity. Hand over the Sun Prism and come with him, as allies or as forced guests, only for a moment. He does not want pride to drive them further apart.
+
+If it becomes a fight, he will not kill them. He chooses nonlethal. The sheet says the party cannot win this fight short of a miracle. He takes them to the marauders' fortress.
+
+As allies, they see the war room: a death knight holding a castle to the north, maps of necromancer routes and patrols, a tally of guards and unique beings, a multitude of undead, signs of fiends.
+
+As guests, he asks for weapons and magic for the time being and puts them in an iron cell in a stone prison inside the camp. He asks forgiveness, says there is an invasion to prepare, thanks them for reclaiming the relic, and promises to be back within an hour to talk further. Two guards overlook the cell.
+
+He takes the Sun Prism. From this point the party works with him because he forces it. He makes them lead the way into the mountains north of Dusthaven, toward Castle Darkstone. They clear that castle of Aric. Paul Marauder dies there and is buried in the town that follows, Highrest. The fortress is the band's camp after Tor unified them, not the three-room cave Zephyr and Sirocco used. The war-room map's death knight is not given a name on the sheet. The castle they then clear is Castle Darkstone, and its master is Aric.
+
+**Sun Prism Aquarium.** The entire sheet says the safe contains 4,000 sp and an elaborately crafted bejeweled circlet worth 2,000 gp. No room description.
 
 #### The Ember Plains
 
 The green middle of the map. Ironspire sits where the plains, the river, and the forest meet. The present railway runs from Ironspire to Steamwood, about 80 miles, and from Dusthaven to Steamwood, about 125 miles. North of Ironspire, past wooded hills and a small sea from the Enigma, is Mundane. Soldiers of the Empire also have a private train from Ironspire to Fort Ironclad, about 50 miles, and from Steamwood to Fort Ironclad, about 65 miles.
 
+#### Aetheria
+
+Aetheria rose in 303, three years after liquid mana was discovered, and fell in 686, three years after the Enigma Accident. It was a mighty society that revered celestial powers and harnessed the sun. The ruins lie under the desert's shifting sands. Vaelrix Morra, Overseer of the Arcane, was born there more than six hundred years ago, which puts his birth around or before the fall.
+
 #### The Savagebloom Expanse
 
-The far southeastern jungle. Anchorhall is in the north of it. Venomshade stands in its darkest reaches. Bloomridge is the Flameguard camp inside it. Talia Moss, the Verdant Viper, comes from the Expanse. The Lost City of Gold is in this jungle, and it has not been found.
+The far southeastern jungle. Venomshade stands in its darkest reaches. Bloomridge is the Flameguard camp inside it. Talia Moss, the Verdant Viper, comes from the Expanse. The Lost City of Gold is in this jungle, and it has not been found.
 
 A treacherous, ever-expanding jungle, where nature reigns and stays untamed. Colossal trees with serpentine roots blot out the sun. Their leaves shimmer with an otherworldly glow. Under the canopy the jungle is full of vividly colored venomous creatures and ancient sentient plants with a hunger for flesh. The air is thick with magic, and the growth swallows whatever stands in it. Explorers speak of flora that bloom with poisonous beauty and vines that coil like serpents. Deeper in, the place pulses with a primal, malevolent energy.
 
 At the end of the Orcish Uprising, in 935, orcish refugees fled toward this jungle. The wildlife, the goblins, and the yuan-ti slaughtered them. Gorc, under Goblin Camp, is the child who was left.
-
-##### Goblin Camp
-
-**GM.** The bird-cries drop away. Low murmurs, harsh laughter, and a whiff of acrid smoke come through the trees. The trees part on a ragged clearing, barricaded with sharpened stakes and knotted vines. Makeshift teepees of wood and hide. Goblins, green and gray, move between them. Masked goblins dance at a roaring fire and roast something down to char. A couple more play a tribal tune on crude instruments.
-
-The largest hut sits at the high point, backed by a short cliff and the river. Bone totems decorate the entrance. In front of it a deep pit has a ramp down. Inside the pit are desiccated bodies and one living prisoner, chained to the stone. He is a Flameguard soldier from Bloomridge. He and an ally were attacked and captured. The ally was tortured to death. He promises a reward if he is returned to Bloomridge. He is not named. In Lost City the hook was not used. From Brews to Bullion reuses this camp, and he is there again to be rescued.
-
-Gorc is an orc man the camp took in as a child, having mistaken him for a goblin while he wandered the jungle. He does not know his heritage. He comes from those refugees of 935.
-
-##### Sunken Temple
-
-The player text is the verse:
-
-> To rise, we first must fall,
-> In death, life springs from it all.
-> The seed takes root, the flower blooms,
-> But all returns to ancient tombs.
-
-**GM.** The order written under the verse is Seed, then Skull, then Tomb, then Flower. Nothing else is on the sheet.
-
-##### Death in the Jungle
-
-#### Anchorhall
-
-In the north of the Savagebloom Expanse.
 
 #### Bloomridge
 

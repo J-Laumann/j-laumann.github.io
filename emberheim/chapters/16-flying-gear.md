@@ -106,7 +106,7 @@ Armor of it does not impose disadvantage on Stealth, grants advantage on Acrobat
 
 Weapons of it have double thrown range, or 20/60 if the weapon has no thrown range, and they return on a miss. They have +1 to hit and not to damage. On a critical hit, an extra 1d6 thunder as the weapon cuts the air.
 
-**GM.** The true name is Aureleonite, given by the aarakocra who mine and work it. An older note spelled that Aurelionite. The party that found the ore apart from them called it Floab, a joke, and only they use that name. The sheet also writes Flobe.
+**GM.** The true name is Aureleonite, given by the Aarakocra who mine and work it. An older note spelled that Aurelionite. The party that found the ore apart from them called it Floab, a joke, and only they use that name. The sheet also writes Flobe.
 
 ### Gauntlets of Unyielding Grasp
 

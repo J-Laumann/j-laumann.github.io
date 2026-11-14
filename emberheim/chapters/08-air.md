@@ -1,11 +1,11 @@
 ### The Elemental Plane of Air
 
 
-Carter Wint opened this road. In 973 he found a Node of Air in the Sea of Sand. In 974 he met the aarakocra, learned the name Yan-C-Bin, and started bringing Auran work home. In 975 Yan-C-Bin attacked Shakharra, killed many, and possessed him. Carter retreated to his castle, and from that year Yan-C-Bin has a physical body. The present company sees the cloud islands on summer 21–22, before they ever reach Evershroud.
+Carter Wint opened this road. In 973 he found a Node of Air in the Sea of Sand. In 974 he met the Aarakocra, learned the name Yan-C-Bin, and started bringing Auran work home. In 975 Yan-C-Bin attacked Shakharra, killed many, and possessed him. Carter retreated to his castle, and from that year Yan-C-Bin has a physical body. The present company sees the cloud islands on summer 21–22, before they ever reach Evershroud.
 
 #### Shakharra
 
-The only remaining town of the aarakocra, and it stands in the Elemental Plane of Air. A fortress on a gargantuan floating island. Wooden docks ring a small harbor on the south peninsula. Floating wooden carts are parked along those docks. Lord Kaarak rules it. His name is said kay-rack. The Flying Boats company only glimpses the place during the summer of the cloud islands. In 975 Yan-C-Bin attacked it, killed many, and possessed Carter Wint there.
+The only remaining town of the Aarakocra, and it stands in the Elemental Plane of Air. A fortress on a gargantuan floating island. Wooden docks ring a small harbor on the south peninsula. Floating wooden carts are parked along those docks. Lord Kaarak rules it. His name is said kay-rack. The Flying Boats company only glimpses the place during the summer of the cloud islands. In 975 Yan-C-Bin attacked it, killed many, and possessed Carter Wint there.
 
 #### Lord Kaarak's Questions
 
@@ -23,7 +23,7 @@ Three islands, reached from a node.
 
 **Mined island.** Small, mostly crag. Footing on the north end, then a tunnel to an open quarried middle. A flooded cavern goes deeper, propped with old water-damaged wood. Anything wild in there collapses it. A feral water elemental lives in the water. At the top of the caverns, a small wooden room. The furniture and papers are waterlogged and strewn. One note is hammered above the door. One chunk of Aureleonite is under the dirty water in that room. The sheet spells it Aurelionite. More could be mined deeper in, if the cavern holds.
 
-**Couatl island.** A snaking island, lush on top, two small crags floating beside it. A river winds through the middle, drops down short cliffs, and falls off into mist. Couatls fly lazy between the trees and above them. Some rush in, curious, shapeshift to mimic the company for fun, and mutter Auran in their minds. Behind the tallest waterfall is the nest. Among the sleeping couatls, piles of sticks, grasses, and leaves hold silver, gold, and crystal. If Wint is mentioned, they fetch a stone orb with white glowing lines spiraling on it.
+**Couatl island.** A snaking island, lush on top, two small crags floating beside it. A river winds through the middle, drops down short cliffs, and falls off into mist. Couatls fly lazy between the trees and above them. Some rush in, curious, shapeshift to mimic the company for fun, and mutter Auran in their minds. Behind the tallest waterfall is the nest. Among the sleeping Couatls, piles of sticks, grasses, and leaves hold silver, gold, and crystal. If Wint is mentioned, they fetch a stone orb with white glowing lines spiraling on it.
 
 **Node island.** Large, sparse forest and tall grass, then a sheer cliff. Below the cliff the rock is worked stone, and a huge double door is set in the wall. A small rounded basin stands in front. Smooth twirling runes arch over the doors: "Unlock these doors only if you wish to guard this portal with your life."
 

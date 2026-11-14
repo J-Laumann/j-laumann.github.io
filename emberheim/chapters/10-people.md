@@ -104,11 +104,10 @@ Wyatt Kane is the sheriff. Father Mark Abrams is the priest. The Lost City churc
 
 Owner of the Axeman's Alehouse. The portrait is under Steamwood.
 
-### Buck
 
 ### Sorrin Quill
 
-Black-feathered aarakocra. One sheet spelled him Sorin. In the years Khan was a bottom-dweller, the city knew this person as the Dagger of the People: blackmail for corrupt nobles, death for lawless judges. Almost nobody knows the face or the name. Khan does. At the Gilded Gear he leans over a high railing and waves down.
+Black-feathered Aarakocra. One sheet spelled him Sorin. In the years Khan was a bottom-dweller, the city knew this person as the Dagger of the People: blackmail for corrupt nobles, death for lawless judges. Almost nobody knows the face or the name. Khan does. At the Gilded Gear he leans over a high railing and waves down.
 
 ### Rival heroes
 
@@ -118,9 +117,6 @@ Lysander Malcove and Kellen Duskwright, with their shield guardian. The Graves s
 
 The cannon theft is under Ironspire. Short version: Threx, a principled gnome, designed the Arcstrike Cannon. Meryn stole it through Jessa "Redwren" Skorr and the Rust Rats, and scaled it into an unstable automated turret. Meryn is a half-elf. Threx's own sheet is blank. Briggs Magren is the gnome at Briggs' BOOM!, not either of these two. His sheet's only added fact is the surname Magren.
 
-### Mask of Emilio
-
-The only text is the item, filed under Items / Other / ???. Emilio has no portrait and no scene. The mask is in the relics chapter.
 
 ### Will
 
@@ -154,15 +150,15 @@ Bugbear blood, from the burst of magic at the Enigma. The mist at Evershroud is 
 
 ### Elric Caltor
 
-**GM.** A couatl in disguise. His sheet writes the people as coatls. In 978 the couatls sent him through an outward node they still hold, a last attempt to find help against Yan-C-Bin. Their ritual opened the inward node to the south and began Flying Boats. Carter did not send him. Nothing here says the company knows what he is.
+**GM.** A Couatl in disguise. His sheet writes the people as coatls. In 978 the Couatls sent him through an outward node they still hold, a last attempt to find help against Yan-C-Bin. Their ritual opened the inward node to the south and began Flying Boats. Carter did not send him. Nothing here says the company knows what he is.
 
 ### Carter Wint
 
-Air genasi. He does not need to breathe, which is how he reaches the laboratory under the lake. In 973 he found a Node of Air in the Sea of Sand. In 974 he held the fog back at Evershroud, left a barrier in the church and an Aurelic Crystal, met The Lady of the House through a node, and began learning Auran work from the aarakocra. In 975 Yan-C-Bin possessed him during the attack on Shakharra and drove him back to his castle. The body is the body Yan-C-Bin wears. The quarry note is signed C. W. The GM line under that note is the one word Carter.
+Air genasi. He does not need to breathe, which is how he reaches the laboratory under the lake. In 973 he found a Node of Air in the Sea of Sand. In 974 he held the fog back at Evershroud, left a barrier in the church and an Aurelic Crystal, met The Lady of the House through a node, and began learning Auran work from the Aarakocra. In 975 Yan-C-Bin possessed him during the attack on Shakharra and drove him back to his castle. The body is the body Yan-C-Bin wears. The quarry note is signed C. W. The GM line under that note is the one word Carter.
 
 ### Yan-C-Bin
 
-**GM.** He has taken physical form in Carter Wint's body. He is using Carter's air genasi blood and Carter's magic to build an army of Auran constructs. He has taken the Plane of Air and wrapped it in storm. He is putting down aarakocra and couatl resistance, and he is trying to enter the physical plane through the strongest node he can. The timeline writes his name Yan-C Bin, without the second hyphen. In 970 a smaller victory of his leaked magic into the world and thickened the Evershroud fog. In 975 he took Carter. In the summer of 980 an agent of his died near Azure Lagoon and spoke the name.
+**GM.** He has taken physical form in Carter Wint's body. He is using Carter's air genasi blood and Carter's magic to build an army of Auran constructs. He has taken the Plane of Air and wrapped it in storm. He is putting down Aarakocra and Couatl resistance, and he is trying to enter the physical plane through the strongest node he can. The timeline writes his name Yan-C Bin, without the second hyphen. In 970 a smaller victory of his leaked magic into the world and thickened the Evershroud fog. In 975 he took Carter. In the summer of 980 an agent of his died near Azure Lagoon and spoke the name.
 
 ### Lord Kaarak
 
@@ -184,7 +180,12 @@ Keeps the Blind Gull in Evershroud. Rooms are 1 sp a night. Fish and cheap ale.
 
 They sit with Winston during Party Night and say they have kept him alive. They take the company to the Lady when asked, and they linger in her praise. No other description.
 
-### Lady Sanswari
+### The Lady of the House
+
+An arch-fey, and the power at the Evershroud node. She led the Aetherian research there until the Enigma Project took her. The Enigma Accident hit her with enough magic to tear most people loose, and her will held. She is half-attached to her soul. Around the year 700 she came back to the house by that node. The fog is what the fae do to that node. It thickened in 970, and breathing it causes Mad Mist. Carter visited, was never charmed by a night in the house, went through the node, and never returned. She wishes he had stayed.
+
+Alistaire and Malistaire keep her door and sit with guests the mist takes. In the summer of 980 the company finds her. The beast on the node just north of the manor is the Auran golem, crafted by the Aarakocra from Carter Wint's old notes. The company destroys it. She will be in their debt for that. Her rooms, and Carter Wint's visit, are under Evershroud. Her own sheet is blank.
+
 
 ### General Ignar Voryn
 

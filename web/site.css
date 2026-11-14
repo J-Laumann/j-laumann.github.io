@@ -199,6 +199,8 @@ html.gm span.gm-only {
   padding: 1.4rem 1.2rem 4rem;
 }
 
+.layout.solo { grid-template-columns: minmax(0, 1fr); max-width: 52rem; }
+
 aside details {
   position: sticky;
   top: 4.4rem;
@@ -207,25 +209,87 @@ aside details {
   background: transparent;
 }
 
-aside summary {
-  cursor: pointer;
-  color: var(--muted);
-  font-size: 0.85rem;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
+aside.sections {
+  position: sticky;
+  top: 4.4rem;
+  align-self: start;
+  max-height: calc(100vh - 5.4rem);
+  overflow: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 0.85rem;
 }
 
-.side { display: flex; flex-direction: column; gap: 0.15rem; padding-top: 0.4rem; }
+aside.sections details {
+  position: static;
+  max-height: none;
+  overflow: visible;
+}
 
-.side a {
+aside details:not([open]) > :not(summary) {
+  display: none;
+}
+
+aside summary {
+  cursor: pointer;
+  color: var(--ink);
+  font-size: 0.95rem;
+  font-weight: 650;
+}
+
+aside.sections summary a {
+  color: inherit;
+  text-decoration: none;
+}
+
+aside.sections summary a[aria-current] {
+  color: var(--ember);
+}
+
+aside.sections nav details {
+  margin-left: 0.75rem;
+}
+
+aside.sections details details summary {
+  font-size: 0.92rem;
+  font-weight: 600;
+}
+
+.side { display: flex; flex-direction: column; gap: 0.08rem; padding-top: 0.4rem; }
+
+.side a,
+.side .label {
   color: var(--ink);
   text-decoration: none;
   padding: 0.12rem 0;
 }
 
-.side a.sub { padding-left: 0.8rem; color: var(--muted); font-size: 0.92rem; }
+.side .label {
+  margin-top: 0.45rem;
+  color: var(--muted);
+  font-size: 0.92rem;
+}
 
-.side a:hover { color: var(--ember); }
+.side .place {
+  margin: 0.15rem 0 0.05rem;
+  color: var(--muted);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.side a.d1, .side .label.d1 { padding-left: 0.8rem; }
+.side a.d2, .side .label.d2 { padding-left: 1.55rem; }
+.side a.d3, .side .label.d3 { padding-left: 2.3rem; font-size: 0.92rem; color: var(--muted); }
+.side a.d4, .side .label.d4 { padding-left: 3rem; font-size: 0.88rem; color: var(--muted); }
+
+.side a:hover,
+.side a[aria-current] { color: var(--ember); }
+.side a[aria-current] { font-weight: 700; }
+
+ul.contents { list-style: none; padding-left: 0; margin-top: 0.8rem; }
+ul.contents li { margin: 0.28rem 0; }
 
 article {
   background: var(--card);
@@ -246,7 +310,11 @@ h2 { font-size: 1.7rem; margin: 2.2rem 0 0.6rem; padding-bottom: 0.25rem; border
 h3 { font-size: 1.28rem; margin: 1.6rem 0 0.4rem; }
 h4 { font-size: 1.08rem; margin: 1.15rem 0 0.3rem; }
 h5 { font-size: 1rem; margin: 0.95rem 0 0.25rem; }
-h2:first-child, h1:first-child { margin-top: 0; }
+h1:first-child,
+h2:first-child,
+h3:first-child,
+h4:first-child,
+article .gm-block > :first-child { margin-top: 0; }
 
 p { margin: 0.55rem 0; }
 a { color: var(--ember); }
@@ -308,7 +376,8 @@ body.home .top {
 @media (max-width: 800px) {
   .layout { grid-template-columns: 1fr; }
   .find { margin-left: 0; flex: 1 1 12rem; min-width: 0; }
-  aside details { position: static; max-height: none; }
+  aside details,
+  aside.sections { position: static; max-height: none; }
   article { padding: 1rem 0.9rem 2rem; }
   h1 { font-size: 2.1rem; }
 }

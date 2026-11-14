@@ -1,10 +1,7 @@
 ## Ships
 
-Flying Boats adds a ship-combat sheet and one cargo list. Hit points and damage are scaled down by a factor of 1 to 5. Movement is on a hex grid. One hex is 50 feet, or 50 miles when the same rules are used for a day's travel. The sheet's armor line says "how hard a shit is to hit." The word meant is ship.
+Flying Boats adds a ship-combat sheet. Hit points and damage are scaled down by a factor of 1 to 5. Movement is on a hex grid. One hex is 50 feet, or 50 miles when the same rules are used for a day's travel. The sheet's armor line says "how hard a shit is to hit." The word meant is ship.
 
-### Cloudsplitter Cargo
-
-Filed under Characters. Fuel is 1 ton of coal an hour, and 36 tons of coal are aboard. Cargo has two slots. Both are empty. The misc line lists a Water Anchor and a Harpoon Anchor. The sheet names no owner. McMasterson is captain of the expedition's ship, and he says they also have one in Emberheim. The sheet does not say that ship is this hold.
 
 ### Boat Basics
 

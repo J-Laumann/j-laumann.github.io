@@ -8,10 +8,6 @@ The Enigma Accident is year 683, during the Age of Terror, which the timeline op
 
 **GM.** Elowen Sunweaver is an elven archmage of fire and sun, now a lich, living deep in the Enigma. She founded Dusthaven. The world does not know that, does not know where she is, and does not know she is a lich. She took refuge here because the Enigma stops the flow of time on whoever is inside. She has learned the fae well enough to know they will steal a name. Inside the Enigma she goes by Newole, so the name Elowen is not available to take. The sheet spells it "the Engima" once. The Sunfire Prism's recorded voice asks the finders to come to the Enigma and ask for Newole. What the Weird West company has learned is that she created the temple that housed the prism and that she is a powerful wizard.
 
-##### The Lady of the House
-
-Flying Boats names her as the head of the Aetherian research at the Evershroud node. The Enigma Project poached her. The Enigma Accident hit her with enough magic to tear most people loose, and her will held. She is half-attached to her soul, and she is a sapient arch-fey. Around the year 700 she went back to the house by that node. Her rooms, and Carter Wint's visit, are under Evershroud. Nothing further is written for her.
-
 ##### Scraps of Disaster
 
 A surreal, dangerous zone just outside the edge of that wasteland, which makes it legal to spelunk. Digs & Dives has catalogued bizarre magical artifacts here and will not explore it. The side effects of the Enigma make it too dangerous. No list of the artifacts.

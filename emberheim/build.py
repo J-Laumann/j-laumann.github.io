@@ -311,7 +311,7 @@ def insert_toc(markdown: str, entries: list[tuple[int, str, str]]) -> str:
 
 
 def inline_html(text: str) -> str:
-    escaped = html.escape(text)
+    escaped = html.escape(text, quote=False)
     escaped = re.sub(r"`([^`]+)`", r"<code>\1</code>", escaped)
     escaped = re.sub(r"\*\*([^*]+)\*\*", r"<strong>\1</strong>", escaped)
     escaped = re.sub(r"(?<!\*)\*([^*]+)\*(?!\*)", r"<em>\1</em>", escaped)
@@ -620,7 +620,7 @@ H2_PAGE = {
     "still-open": "open.html",
 }
 
-GM_SECTIONS = {"tim", "the-elemental-plane-of-air"}
+GM_SECTIONS = {"tim", "the-elemental-plane-of-air", "miscellaneous-locations"}
 GM_PAGES = {"items.html"}
 
 
@@ -629,6 +629,9 @@ def write_site(full_html: str) -> None:
     import shutil
 
     site = SITE
+    if (site / "locations" / "ironspire.html").exists():
+        print("Site pages are already one file per chapter; left web/ in place.")
+        return
     site.mkdir(exist_ok=True)
     shutil.copy(MAP, site / "emberheim-map.jpg")
     inner = re.search(r"<body>(.*)</body>", full_html, re.S).group(1)
@@ -686,7 +689,7 @@ def write_site(full_html: str) -> None:
             anchor = re.search(r'id="([^"]+)"', attrs)
             if anchor is None:
                 continue
-            plain = re.sub(r"<[^>]+>", "", title)
+            plain = html.escape(html.unescape(re.sub(r"<[^>]+>", "", title)), quote=False)
             hidden = name in GM_PAGES or "gm-block" in attrs
             entry: dict[str, object] = {
                 "t": plain,
@@ -749,7 +752,7 @@ def page_sidebar(article: str, alphabetical: bool) -> str:
         anchor = re.search(r'id="([^"]+)"', attrs)
         if anchor is None:
             continue
-        plain = re.sub(r"<[^>]+>", "", title)
+        plain = html.unescape(re.sub(r"<[^>]+>", "", title))
         items.append((level, anchor.group(1), plain, "gm-block" in attrs))
     if alphabetical:
         items.sort(key=lambda item: item[2].casefold())
@@ -763,7 +766,7 @@ def page_sidebar(article: str, alphabetical: bool) -> str:
         if level == 4:
             classes.append("sub")
         cls = " ".join(classes)
-        lines.append(f'<a class="{cls}" href="#{html.escape(anchor)}">{html.escape(plain)}</a>')
+        lines.append(f'<a class="{cls}" href="#{html.escape(anchor)}">{html.escape(plain, quote=False)}</a>')
     return (
         '<aside><details open><summary>On this page</summary><nav class="side">'
         + "".join(lines)
