@@ -2,12 +2,19 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Factions · Emberheim</title>
-<script>
-const H = {"empire":"groups/empire.html","council-of-emberheim":"groups/council-of-emberheim.html","the-church-2":"groups/the-church-2.html","heroes-of-emberheim":"groups/heroes-of-emberheim.html","central":"groups/central.html","the-rust-rats":"groups/the-rust-rats.html","the-west":"groups/the-west.html","heroes-of-highrest":"groups/heroes-of-highrest.html","the-marauders":"groups/the-marauders.html","house-darkstone":"groups/house-darkstone.html","the-east":"groups/the-east.html","the-lady-of-the-house-2":"people/the-lady-of-the-house.html","the-fae":"groups/the-fae.html","the-elemental-plane-of-air-2":"groups/the-elemental-plane-of-air-2.html","yan-c-bin-2":"groups/yan-c-bin-2.html","the-aarakocra-of-shakharra":"groups/the-aarakocra-of-shakharra.html","the-couatls":"groups/the-couatls.html"};
-const id = location.hash.replace(/^#/, "");
-location.replace(H[id] || "groups/empire.html");
-</script>
+<link rel="stylesheet" href="site.css">
+<script src="boot.js"></script>
+<script src="section-state.js"></script>
 </head>
-<body></body>
+<body data-section="groups">
+<div id="app"></div>
+<script src="repo.js"></script>
+<script src="data/groups.js"></script>
+<script src="search.js"></script>
+<script src="find.js"></script>
+<script src="reader.js"></script>
+<script src="gm.js"></script>
+</body>
 </html>

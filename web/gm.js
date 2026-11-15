@@ -24,6 +24,7 @@ function setUnlocked(on) {
     window.name = window.name.replaceAll(FLAG, "").trim();
   }
   document.documentElement.classList.toggle("gm", on);
+  document.dispatchEvent(new CustomEvent("emberheim-gm", { detail: on }));
   const button = document.querySelector("#gm-lock");
   if (!button) return;
   button.setAttribute("aria-pressed", on ? "true" : "false");

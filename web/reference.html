@@ -2,12 +2,19 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Reference · Emberheim</title>
-<script>
-const H = {"prices":"reference/prices.html","mundane-goods":"reference/mundane-goods.html","item-values":"reference/item-values.html","western-npc-random-loot-table-d100":"reference/western-npc-random-loot-table-d100.html","firearms":"reference/firearms.html","ammunition":"reference/ammunition.html","weapon-traits":"reference/weapon-traits.html","dynamite":"reference/dynamite.html","accessories":"reference/accessories.html","fanning-and-levering":"reference/fanning-and-levering.html","ships":"reference/ships.html","cloudsplitter-cargo":"reference/ships.html","boat-basics":"reference/boat-basics.html","ship-combat":"reference/ship-combat.html","action-stations":"reference/action-stations.html","moving-a-ship":"reference/moving-a-ship.html"};
-const id = location.hash.replace(/^#/, "");
-location.replace(H[id] || "reference/prices.html");
-</script>
+<link rel="stylesheet" href="site.css">
+<script src="boot.js"></script>
+<script src="section-state.js"></script>
 </head>
-<body></body>
+<body data-section="reference">
+<div id="app"></div>
+<script src="repo.js"></script>
+<script src="data/reference.js"></script>
+<script src="search.js"></script>
+<script src="find.js"></script>
+<script src="reader.js"></script>
+<script src="gm.js"></script>
+</body>
 </html>

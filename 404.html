@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Emberheim</title>
+<script src="/web/redirects.js"></script>
+<script>
+(function () {
+  var path = location.pathname.replace(/^\/web\//, "");
+  var hash = location.hash || "";
+  var map = window.EMBERHEIM_REDIRECTS || {};
+  var target = null;
+  var match = path.match(/^([^/]+)\/([^/]+)\.html$/);
+  if (match && hash) target = match[1] + ".html" + hash;
+  else if (map[path]) target = map[path];
+  else if (match) target = match[1] + ".html#" + match[2];
+  if (target) location.replace("/web/" + target.replace(/^\//, ""));
+})();
+</script>
+</head>
+<body>
+<p><a href="/web/">Emberheim</a></p>
+</body>
+</html>

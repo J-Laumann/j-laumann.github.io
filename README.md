@@ -14,7 +14,7 @@ Chapters live in `emberheim/chapters/`. After a new campaign is merged, rebuild 
 python3 emberheim/build.py
 ```
 
-That writes the site back into `web`.
+That rewrites the book files `emberheim.md`, `emberheim.html`, and `emberheim.docx`. The website in `web/` is separate: a GM edits it in the browser, and a save commits it back to this repository.
 
 # Roll20 handout export
 

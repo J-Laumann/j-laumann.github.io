@@ -2,12 +2,19 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Campaigns · Emberheim</title>
-<script>
-const H = {"campaigns":"campaigns/campaigns.html","weird-west":"campaigns/weird-west.html","the-stolen-schematic":"campaigns/the-stolen-schematic.html","underground-gigs":"campaigns/underground-gigs.html","sack-of-cold":"campaigns/sack-of-cold.html","the-contest-of-heroes":"campaigns/the-contest-of-heroes.html","4-statues":"campaigns/4-statues.html","team-rating-dmg":"campaigns/team-rating-dmg.html","official-business":"campaigns/official-business.html","lost-city":"campaigns/lost-city.html","flying-boats":"campaigns/flying-boats.html","campaign-timeline":"campaigns/campaign-timeline.html","from-brews-to-bullion":"campaigns/from-brews-to-bullion.html","completed-bounties":"campaigns/weird-west.html#completed-bounties","open-bounties":"campaigns/weird-west.html#open-bounties","goblin-camp":"campaigns/from-brews-to-bullion.html#goblin-camp","sunken-temple":"campaigns/from-brews-to-bullion.html#sunken-temple","death-in-the-jungle":"campaigns/from-brews-to-bullion.html#death-in-the-jungle"};
-const id = location.hash.replace(/^#/, "");
-location.replace(H[id] || "campaigns/campaigns.html");
-</script>
+<link rel="stylesheet" href="site.css">
+<script src="boot.js"></script>
+<script src="section-state.js"></script>
 </head>
-<body></body>
+<body data-section="campaigns">
+<div id="app"></div>
+<script src="repo.js"></script>
+<script src="data/campaigns.js"></script>
+<script src="search.js"></script>
+<script src="find.js"></script>
+<script src="reader.js"></script>
+<script src="gm.js"></script>
+</body>
 </html>

@@ -12,10 +12,8 @@
   };
 
   function folder() {
-    var parts = location.pathname.split("/").filter(Boolean);
-    parts.pop();
-    var name = parts.pop() || "";
-    return known[name] ? name : "root";
+    var file = (location.pathname.split("/").pop() || "").replace(/\.html$/, "");
+    return known[file] ? file : "root";
   }
 
   function readState() {
@@ -87,18 +85,13 @@
     if (!aside) return;
     var list = aside.querySelectorAll("details");
     for (var i = 0; i < list.length; i++) bind(list[i]);
-    if (aside.nextElementSibling) observer.disconnect();
   }
 
   var observer = new MutationObserver(scan);
   observer.observe(document.documentElement, { childList: true, subtree: true });
   if (document.readyState === "loading") {
-    document.addEventListener("DOMContentLoaded", function () {
-      scan();
-      observer.disconnect();
-    });
+    document.addEventListener("DOMContentLoaded", scan);
   } else {
     scan();
-    observer.disconnect();
   }
 })();

@@ -2,12 +2,19 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>People · Emberheim</title>
-<script>
-const H = {"people":"people/people.html","aeris-thorne-2":"people/aeris-thorne-2.html","alistaire-and-malistaire":"people/alistaire-and-malistaire.html","aric-darkstone":"people/aric-darkstone.html","az":"people/az.html","bbq":"people/bbq.html","boogle":"people/boogle.html","borin-pyre":"people/borin-pyre.html","caelric-and-paul":"people/caelric-and-paul.html","carter-wint":"people/carter-wint.html","clint":"people/clint.html","clive-orecrusher":"people/clive-orecrusher.html","elara-silverhand-gale":"people/elara-silverhand-gale.html","elowen-sunweaver":"people/elowen-sunweaver.html","elric-caltor":"people/elric-caltor.html","enoki-chanterelle":"people/enoki-chanterelle.html","father-kirk-callidus":"people/father-kirk-callidus.html","father-samuel":"people/father-samuel.html","floyd-hibiscus-sr":"people/floyd-hibiscus-sr.html","garrick-firebeard-stonefist":"people/garrick-firebeard-stonefist.html","general-ignar-voryn":"people/general-ignar-voryn.html","gorc":"people/gorc.html","gretchen-moorwind":"people/gretchen-moorwind.html","grizzle-ironbark":"people/grizzle-ironbark.html","gulp":"people/gulp.html","helena-darkstone":"people/helena-darkstone.html","kayren":"people/kayren.html","khan":"people/khan.html","kincaid-wint":"people/kincaid-wint.html","king-krieg-von-darkstone-and-queen-beatrice":"people/king-krieg-von-darkstone-and-queen-beatrice.html","lady-evelina-darkstone":"people/lady-evelina-darkstone.html","the-lady-of-the-house":"people/the-lady-of-the-house.html","lord-kaarak":"people/lord-kaarak.html","magnolia-oriane":"people/magnolia-oriane.html","mara":"people/mara.html","marvin-giurelli-jr":"people/marvin-giurelli-jr.html","mask-of-emilio":"people/people.html","mcmasterson":"people/mcmasterson.html","merrick-deepwater":"people/merrick-deepwater.html","meryn-bronzethumb-and-dr-verid-threx":"people/meryn-bronzethumb-and-dr-verid-threx.html","mira-stonebrew":"people/mira-stonebrew.html","mister":"people/mister.html","rival-heroes":"people/rival-heroes.html","saint-nicholas":"people/saint-nicholas.html","scorpion-gulch-names":"people/scorpion-gulch-names.html","sorrin-quill":"people/sorrin-quill.html","sparky":"people/sparky.html","taurus-moorwind":"people/taurus-moorwind.html","thaddeus-moorwind":"people/thaddeus-moorwind.html","the-dusthaven-counter":"people/the-dusthaven-counter.html","the-flying-boats-company":"people/the-flying-boats-company.html","thorian-brightshield":"people/thorian-brightshield.html","tor-longtooth":"people/tor-longtooth.html","torren-blackholt":"people/torren-blackholt.html","toshiro-haru":"people/toshiro-haru.html","val-and-valentina":"people/val-and-valentina.html","wendy":"people/wendy.html","will":"people/will.html","winston-bor":"people/winston-bor.html","xanthis":"people/xanthis.html","yan-c-bin-3":"people/yan-c-bin-3.html"};
-const id = location.hash.replace(/^#/, "");
-location.replace(H[id] || "people/people.html");
-</script>
+<link rel="stylesheet" href="site.css">
+<script src="boot.js"></script>
+<script src="section-state.js"></script>
 </head>
-<body></body>
+<body data-section="people">
+<div id="app"></div>
+<script src="repo.js"></script>
+<script src="data/people.js"></script>
+<script src="search.js"></script>
+<script src="find.js"></script>
+<script src="reader.js"></script>
+<script src="gm.js"></script>
+</body>
 </html>

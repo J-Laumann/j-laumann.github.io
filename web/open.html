@@ -2,12 +2,19 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Still open · Emberheim</title>
-<script>
-const H = {"still-open":"open/still-open.html"};
-const id = location.hash.replace(/^#/, "");
-location.replace(H[id] || "open/still-open.html");
-</script>
+<link rel="stylesheet" href="site.css">
+<script src="boot.js"></script>
+<script src="section-state.js"></script>
 </head>
-<body></body>
+<body data-section="open">
+<div id="app"></div>
+<script src="repo.js"></script>
+<script src="data/open.js"></script>
+<script src="search.js"></script>
+<script src="find.js"></script>
+<script src="reader.js"></script>
+<script src="gm.js"></script>
+</body>
 </html>

@@ -625,6 +625,10 @@ GM_PAGES = {"items.html"}
 
 
 def write_site(full_html: str) -> None:
+    # The website in web/ is edited in the browser and committed back to this
+    # repository. Rebuilding the book must leave those pages alone.
+    print("Left the website in web/ alone.")
+    return
     import json
     import shutil
 
