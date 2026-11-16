@@ -199,7 +199,7 @@ window.EMBERHEIM_SECTION = {
     },
     "the-church-2": {
       "title": "The Church",
-      "html": "\n<h3 id=\"the-church-2\">The Church</h3>\n<p>The faith of the empire, and the seat Evalyne has left empty. A spell costs the same wherever it is sold. Ironspire offers the whole list, through regenerate at 5,000 gp and resurrection at 6,000 gp. Dusthaven, under Father Julius Matthews, and Scorpion Gulch, under Father Mark Abrams, stop at raise dead. Anchorfall's priest is Father Kirk Callidus. Blessed bullets are 30 gp for shells, 150 gp for medium, and 1,500 gp for long. Holy water is 25 gp.</p>\n<p>Saint Nicholas is the church's man in the Weird West jobs: hired through miserable paperwork, lost to Krampus, brought back, and waiting at the palace door when the badges first call. He says those badges make the church easier to hire.</p>\n<p>Evershroud's church is a different building. Father Samuel is sure the fog has a source on the island. In 974 Carter Wint planted a barrier there and left an Aurelic Crystal.</p>\n"
+      "html": "\n<h3 id=\"the-church-2\">The Church</h3>\n<p>The most powerful faction in the known world, due to the direct strength of God. Their symbol is the Cross of course, the shape of heavenly metal Satan was skewered upon before being sealed back into Hell.</p>\n"
     },
     "the-couatls": {
       "title": "The Couatls",
