@@ -1009,7 +1009,7 @@ window.EMBERHEIM_SECTION = {
     },
     "tim": {
       "title": "Tim",
-      "html": "\n<div class=\"gm-block\"><h4 id=\"tim\">Tim</h4>\n<p>In the clouds north of Frosthook.</p></div>\n",
+      "html": "\n<div class=\"gm-block\"><h4 id=\"tim\">Tim</h4>\n<p>A gigantic sea monster, lost to legend. Some say to have communicated with him, and have gone so far as to made deals with the voice of the ocean itself...</p></div>\n",
       "gm": true
     },
     "umimura": {
