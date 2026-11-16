@@ -125,6 +125,12 @@ window.EMBERHEIM_SECTION = {
       "href": "#ships",
       "section": "reference",
       "page": "ships"
+    },
+    {
+      "kind": "group",
+      "title": "Travel",
+      "open": true,
+      "children": []
     }
   ],
   "pages": {
@@ -191,5 +197,6 @@ window.EMBERHEIM_SECTION = {
   },
   "aliases": {
     "cloudsplitter-cargo": "#ships"
-  }
+  },
+  "solo": false
 };
